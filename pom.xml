@@ -15,7 +15,7 @@
         <version>1.2.2</version>
         <scope>compile</scope>
     </dependency>
-   x
+
         <dependency>
             <groupId>org.apache.kafka</groupId>
             <artifactId>kafka-clients</artifactId>
